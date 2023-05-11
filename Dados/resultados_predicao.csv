@@ -1,145 +1,145 @@
-Aplicação,Métrica,Algoritmo,Erro médio absoluto,Erro médio quadrado,Coeficiente de determinação (R²),Tempo de execução(em segundos)
-_.dellsvc,CPU,Redes Neurais Recorrentes ,"0,178840","0,087066","0,652780","297,990328"
-_.dellsvc,CPU, Redes Neurais Convolucionais ,"0,472958","0,501811","-0,679540","61,945539"
-_.dellsvc,CPU,XGBoost,"0,501572","0,509506","-47,933200","1,996638"
-_.dellsvc,CPU,AutoArima,"0,595457","0,642254","-146,835189","481,878441"
-at1-script-gw.script-gw-_,CPU,Redes Neurais Recorrentes ,"0,025157","0,002600","0,608022","330,805591"
-at1-script-gw.script-gw-_,CPU, Redes Neurais Convolucionais ,"0,079002","0,008351","-0,078648","55,270618"
-at1-script-gw.script-gw-_,CPU,XGBoost,"0,011393","0,000328","-207.759,162188","1,622373"
-at1-script-gw.script-gw-_,CPU,AutoArima,"0,071721","0,010609","-40,668337","461,137295"
-at1-sae-gw.SpringCloudGateway - (srs-atl-prd-a1-pks),CPU,Redes Neurais Recorrentes ,"0,033139","0,001253","-6,672666","331,297781"
-at1-sae-gw.SpringCloudGateway - (srs-atl-prd-a1-pks),CPU, Redes Neurais Convolucionais ,"0,276413","0,076868","-301,403142","144,101136"
-at1-sae-gw.SpringCloudGateway - (srs-atl-prd-a1-pks),CPU,XGBoost,"0,011393","0,000328","-207.759,162188","1,622373"
-at1-sae-gw.SpringCloudGateway - (srs-atl-prd-a1-pks),CPU,AutoArima,"0,245684","0,070733","-7,307713","645,005176"
-atl-ce-routing.scg-router-app_,CPU,Redes Neurais Recorrentes ,"0,006145","0,000131","-0,077234","331,267579"
-atl-ce-routing.scg-router-app_,CPU, Redes Neurais Convolucionais ,"0,032193","0,001272","-4,415148","83,120686"
-atl-ce-routing.scg-router-app_,CPU,XGBoost,"0,011282","0,000227","-1.564,643159","1,460121"
-atl-ce-routing.scg-router-app_,CPU,AutoArima,"0,131051","0,017398","0,000000","1.072,116817"
-Azure DevOps Server (tfs)_,CPU,Redes Neurais Recorrentes ,"0,753971","0,945861","0,901376","213,782772"
-Azure DevOps Server (tfs)_,CPU, Redes Neurais Convolucionais ,"2,888395","11,044744","-0,000289","74,678894"
-Azure DevOps Server (tfs)_,CPU,XGBoost,"3,539360","19,807460","-3,924174","1,727690"
-Azure DevOps Server (tfs)_,CPU,AutoArima,"2,875526","11,300862","-11,994381","604,516502"
-BATCH Dell.Pricing.Discount.WebApi_,CPU,Redes Neurais Recorrentes ,"0,574543","0,556079","0,549085","309,947225"
-BATCH Dell.Pricing.Discount.WebApi_,CPU, Redes Neurais Convolucionais ,"1,146691","1,922337","-0,372254","80,776631"
-BATCH Dell.Pricing.Discount.WebApi_,CPU,XGBoost,"1,149739","2,252782","-22,953330","2,029753"
-BATCH Dell.Pricing.Discount.WebApi_,CPU,AutoArima,"1,446096","3,438035","-23,153017","476,337286"
-BATCH EM DCP.PricingService_,CPU,Redes Neurais Recorrentes ,"1,623915","4,532439","0,094341","330,524045"
-BATCH EM DCP.PricingService_,CPU, Redes Neurais Convolucionais ,"1,874692","5,349091","-0,000461","145,692789"
-BATCH EM DCP.PricingService_,CPU,XGBoost,"2,912803","12,874608","-2,140430","2,325849"
-BATCH EM DCP.PricingService_,CPU,AutoArima,"2,536883","11,956899","-33,616859","557,150510"
-dell.com_shop,CPU,Redes Neurais Recorrentes ,"0,451676","0,358702","0,825078","391,588296"
-dell.com_shop,CPU, Redes Neurais Convolucionais ,"1,244205","2,280812","-0,007155","144,713195"
-dell.com_shop,CPU,XGBoost,"1,745641","4,621363","-1,601548","2,905033"
-dell.com_shop,CPU,AutoArima,"1,651910","4,915050","-27,180704","100,404289"
-BATCH SnpServiceAPI_,CPU,Redes Neurais Recorrentes ,"2,741102","23,113325","0,666615","331,282422"
-BATCH SnpServiceAPI_,CPU, Redes Neurais Convolucionais ,"8,179902","153,985633","-0,311637","45,406605"
-BATCH SnpServiceAPI_,CPU,XGBoost,"9,307683","168,598178","-1,776704","2,237175"
-BATCH SnpServiceAPI_,CPU,AutoArima,"9,370270","151,918477","-2,874392","766,463918"
-_.dellsvc,LATENCY,Redes Neurais Recorrentes ,"0,073077","0,020138","-14,467379","298,790267"
-_.dellsvc,LATENCY, Redes Neurais Convolucionais ,"0,059328","0,020512","-0,014907","82,990144"
-_.dellsvc,LATENCY,XGBoost,"0,157416","0,044587","-2,195044","7,614064"
-_.dellsvc,LATENCY,AutoArima,"0,119710","0,039658","-1,317797","101,957532"
-at1-script-gw.script-gw-_,LATENCY,Redes Neurais Recorrentes ,"0,005301","3,824145","-2,366522","331,955100"
-at1-script-gw.script-gw-_,LATENCY, Redes Neurais Convolucionais ,"0,000927","0,000007","-0,057460","53,970675"
-at1-script-gw.script-gw-_,LATENCY,XGBoost,"161,816053","58.796,263936","-0,859359","8,198486"
-at1-script-gw.script-gw-_,LATENCY,AutoArima,"0,003177","0,000017","-41,222583","293,510384"
-at1-sae-gw.SpringCloudGateway - (srs-atl-prd-a1-pks),LATENCY,Redes Neurais Recorrentes ,"169,795691","34.288,556012","-22,881802","330,112687"
-at1-sae-gw.SpringCloudGateway - (srs-atl-prd-a1-pks),LATENCY, Redes Neurais Convolucionais ,"42,214948","9.188,082808","-0,001251","83,265449"
-at1-sae-gw.SpringCloudGateway - (srs-atl-prd-a1-pks),LATENCY,XGBoost,"161,816053","58.796,263936","-0,859359","8,198486"
-at1-sae-gw.SpringCloudGateway - (srs-atl-prd-a1-pks),LATENCY,AutoArima,"3.023,554274","10.949.926,782049","-4,953262","614,509015"
-atl-ce-routing.scg-router-app_,LATENCY,Redes Neurais Recorrentes ,"4.920,595581","115.915.795,225753","0,010005","330,589286"
-atl-ce-routing.scg-router-app_,LATENCY, Redes Neurais Convolucionais ,"915,792292","7.843.416,381632","-0,086217","41,814604"
-atl-ce-routing.scg-router-app_,LATENCY,XGBoost,"44.745,330771","5.376.840.560,563530","-0,554152","1,198833"
-atl-ce-routing.scg-router-app_,LATENCY,AutoArima,"1.555,264019","8.194.279,427570","0,000000","156,972844"
-Azure DevOps Server (tfs)_,LATENCY,Redes Neurais Recorrentes ,"207,793520","79.971,720189","0,820574","208,423023"
-Azure DevOps Server (tfs)_,LATENCY, Redes Neurais Convolucionais ,"593,998084","521.730,666605","-0,022799","82,968991"
-Azure DevOps Server (tfs)_,LATENCY,XGBoost,"857,746064","1.039.380,280072","-2,697148","3,601625"
-Azure DevOps Server (tfs)_,LATENCY,AutoArima,"2.013,814832","4.779.831,279241","-16,313831","308,734898"
-BATCH Dell.Pricing.Discount.WebApi_,LATENCY,Redes Neurais Recorrentes ,"0,002289","8,293817","-4,740699","390,497838"
-BATCH Dell.Pricing.Discount.WebApi_,LATENCY, Redes Neurais Convolucionais ,"0,002510","0,000009","-0,273836","65,222175"
-BATCH Dell.Pricing.Discount.WebApi_,LATENCY,XGBoost,"0,002597","0,000010","-13,205659","1,436060"
-BATCH Dell.Pricing.Discount.WebApi_,LATENCY,AutoArima,"0,002897","1,124961","-7,318220","596,354503"
-BATCH EM DCP.PricingService_,LATENCY,Redes Neurais Recorrentes ,"29,306915","1.347,183012","-2,675205","330,499770"
-BATCH EM DCP.PricingService_,LATENCY, Redes Neurais Convolucionais ,"29,547700","1.479,009157","-0,109093","82,910373"
-BATCH EM DCP.PricingService_,LATENCY,XGBoost,"72,446303","8.496,944499","-1,550728","1,567063"
-BATCH EM DCP.PricingService_,LATENCY,AutoArima,"41,459213","2.914,095419","-1,938535","152,931477"
-dell.com_shop,LATENCY,Redes Neurais Recorrentes ,"13,173681","479,775382","-25,239681","393,149384"
-dell.com_shop,LATENCY, Redes Neurais Convolucionais ,"14,644714","472,421936","-0,036384","82,882957"
-dell.com_shop,LATENCY,XGBoost,"17,461673","592,063416","-5,912456","-5,912456"
-dell.com_shop,LATENCY,AutoArima,"16,747445","615,708743","-4,235867","191,894922"
-BATCH SnpServiceAPI_,LATENCY,Redes Neurais Recorrentes ,"104,063763","93.174,794171","-5,415288","36,271228"
-BATCH SnpServiceAPI_,LATENCY, Redes Neurais Convolucionais ,"82,520877","90.287,204335","-0,034813","82,619839"
-BATCH SnpServiceAPI_,LATENCY,XGBoost,"89,020132","87.332,326375","-76,820311","5,867656"
-BATCH SnpServiceAPI_,LATENCY,AutoArima,"84,110650","86.451,708923","-137,270723","120,312551"
-_.dellsvc,MEMORY,Redes Neurais Recorrentes ,"0,028326","0,006006","0,973360","330,197494"
-_.dellsvc,MEMORY, Redes Neurais Convolucionais ,"0,486382","0,267833","-0,104002","62,851558"
-_.dellsvc,MEMORY,XGBoost,"0,436492","0,243854","0,000000","1,582029"
-_.dellsvc,MEMORY,AutoArima,"0,443352","0,268190","-15,627278","434,905193"
-at1-script-gw.script-gw-_,MEMORY,Redes Neurais Recorrentes ,"0,067124","0,007338","0,942173","309,709597"
-at1-script-gw.script-gw-_,MEMORY, Redes Neurais Convolucionais ,"0,566476","0,471535","-2,156677","82,677912"
-at1-script-gw.script-gw-_,MEMORY,XGBoost,"0,402109","0,311590","0,000000","1,291309"
-at1-script-gw.script-gw-_,MEMORY,AutoArima,"0,455925","0,381019","-63,708753","351,778226"
-at1-sae-gw.SpringCloudGateway - (srs-atl-prd-a1-pks),MEMORY,Redes Neurais Recorrentes ,"0,008865","0,001644","0,989174","331,162667"
-at1-sae-gw.SpringCloudGateway - (srs-atl-prd-a1-pks),MEMORY, Redes Neurais Convolucionais ,"0,489912","0,389423","-1,621068","143,099241"
-at1-sae-gw.SpringCloudGateway - (srs-atl-prd-a1-pks),MEMORY,XGBoost,"0,402109","0,311590","0,000000","1,291309"
-at1-sae-gw.SpringCloudGateway - (srs-atl-prd-a1-pks),MEMORY,AutoArima,"0,404606","0,318070","-112,822238","397,456183"
-atl-ce-routing.scg-router-app_,MEMORY,Redes Neurais Recorrentes ,"0,038613","0,003863","0,953732","331,098100"
-atl-ce-routing.scg-router-app_,MEMORY, Redes Neurais Convolucionais ,"0,412934","0,269231","-1,743047","41,927676"
-atl-ce-routing.scg-router-app_,MEMORY,XGBoost,"0,303483","0,187876","-86.173,696457","0,907020"
-atl-ce-routing.scg-router-app_,MEMORY,AutoArima,"1,394579","2,041451","0,000000","708,803481"
-Azure DevOps Server (tfs)_,MEMORY,Redes Neurais Recorrentes ,"0,259789","0,112048","0,889386","208,475932"
-Azure DevOps Server (tfs)_,MEMORY, Redes Neurais Convolucionais ,"0,886960","1,207889","-0,015682","82,889247"
-Azure DevOps Server (tfs)_,MEMORY,XGBoost,"1,033827","1,640444","-12,634588","1,838412"
-Azure DevOps Server (tfs)_,MEMORY,AutoArima,"0,993354","1,566013","-15,802639","559,356361"
-BATCH Dell.Pricing.Discount.WebApi_,MEMORY,Redes Neurais Recorrentes ,"0,618929","1,012614","0,939986","330,766288"
-BATCH Dell.Pricing.Discount.WebApi_,MEMORY, Redes Neurais Convolucionais ,"3,256453","22,292077","-0,220247","69,601925"
-BATCH Dell.Pricing.Discount.WebApi_,MEMORY,XGBoost,"6,002892","50,514325","-2,944355","3,228747"
-BATCH Dell.Pricing.Discount.WebApi_,MEMORY,AutoArima,"7,555627","69,662396","-39,321972","518,256779"
-BATCH EM DCP.PricingService_,MEMORY,Redes Neurais Recorrentes ,"0,027270","0,001687","0,650363","330,117986"
-BATCH EM DCP.PricingService_,MEMORY, Redes Neurais Convolucionais ,"0,045168","0,006308","-0,021895","83,218957"
-BATCH EM DCP.PricingService_,MEMORY,XGBoost,"0,074164","0,008034","-43,071894","3,655873"
-BATCH EM DCP.PricingService_,MEMORY,AutoArima,"0,060041","0,009119","-3,611307","755,121037"
-dell.com_shop,MEMORY,Redes Neurais Recorrentes ,"0,086660","0,016835","0,818905","330,934275"
-dell.com_shop,MEMORY, Redes Neurais Convolucionais ,"0,261065","0,115140","-0,408628","82,924536"
-dell.com_shop,MEMORY,XGBoost,"0,930730","0,983765","-38,235895","-38,235895"
-dell.com_shop,MEMORY,AutoArima,"0,807503","1,440663","-0,745528","359,837056"
-BATCH SnpServiceAPI_,MEMORY,Redes Neurais Recorrentes ,"0,005055","9,103084","0,423935","331,453381"
-BATCH SnpServiceAPI_,MEMORY, Redes Neurais Convolucionais ,"0,013473","0,000393","-0,148729","44,518397"
-BATCH SnpServiceAPI_,MEMORY,XGBoost,"0,012165","0,000323","-28,742717","1,465075"
-BATCH SnpServiceAPI_,MEMORY,AutoArima,"0,014827","0,000940","-0,939590","456,932388"
-_.dellsvc,REQUEST,Redes Neurais Recorrentes ,"53.138,658271","14.429.597.290,762800","0,401308","330,737334"
-_.dellsvc,REQUEST, Redes Neurais Convolucionais ,"160.667,692878","69.060.655.021,018700","-0,544807","82,701599"
-_.dellsvc,REQUEST,XGBoost,"138.875,788303","56.465.501.531,142900","-95,992013","1,831230"
-_.dellsvc,REQUEST,AutoArima,"167.754,529010","67.675.058.486,452500","-1.292,327749","209,651184"
-at1-script-gw.script-gw-_,REQUEST,Redes Neurais Recorrentes ,"165.555,100462","144.199.684.804,620000","-0,661208","330,475713"
-at1-script-gw.script-gw-_,REQUEST, Redes Neurais Convolucionais ,"415.887,982196","417.602.713.155,291000","-0,707024","54,180919"
-at1-script-gw.script-gw-_,REQUEST,XGBoost,"22.223,556207","2.298.633.369,939480","-15,420085","1,545528"
-at1-script-gw.script-gw-_,REQUEST,AutoArima,"302.015,727977","309.392.794.139,906000","-8,589727","105,292604"
-at1-sae-gw.SpringCloudGateway - (srs-atl-prd-a1-pks),REQUEST,Redes Neurais Recorrentes ,"16.235,053479","1.164.746.156,780120","0,062859","391,442160"
-at1-sae-gw.SpringCloudGateway - (srs-atl-prd-a1-pks),REQUEST, Redes Neurais Convolucionais ,"26.714,280415","3.025.760.254,698310","-0,273777","143,002418"
-at1-sae-gw.SpringCloudGateway - (srs-atl-prd-a1-pks),REQUEST,XGBoost,"22.223,556207","2.298.633.369,939480","-15,420085","1,545528"
-at1-sae-gw.SpringCloudGateway - (srs-atl-prd-a1-pks),REQUEST,AutoArima,"18.023,088454","2.061.575.393,998260","-8,770840","160,861034"
-atl-ce-routing.scg-router-app_,REQUEST,Redes Neurais Recorrentes ,"2.125,570513","26.694.119,351213","-0,475712","331,341012"
-atl-ce-routing.scg-router-app_,REQUEST, Redes Neurais Convolucionais ,"43.267,705205","1.895.488.676,176170","-82,813582","82,596519"
-atl-ce-routing.scg-router-app_,REQUEST,XGBoost,"6.113,400226","73.096.973,923145","-173,827960","1,292954"
-atl-ce-routing.scg-router-app_,REQUEST,AutoArima,"201.542,056075","40.662.051.401,869100","0,000000","90,884819"
-Azure DevOps Server (tfs)_,REQUEST,Redes Neurais Recorrentes ,"40.546,411537","3.004.863.851,024990","0,931518","188,377419"
-Azure DevOps Server (tfs)_,REQUEST, Redes Neurais Convolucionais ,"188.035,886499","54.030.722.229,846600","-0,130261","75,077006"
-Azure DevOps Server (tfs)_,REQUEST,XGBoost,"196.243,967755","67.697.297.187,740500","-3,262384","1,639393"
-Azure DevOps Server (tfs)_,REQUEST,AutoArima,"185.509,023273","49.535.355.840,221300","-15,697221","652,714298"
-BATCH Dell.Pricing.Discount.WebApi_,REQUEST,Redes Neurais Recorrentes ,"864.755,943418","1.224.307.702.651,630000","0,769125","330,941451"
-BATCH Dell.Pricing.Discount.WebApi_,REQUEST, Redes Neurais Convolucionais ,"1.705.549,394164","4.364.865.592.173,590000","-0,020339","82,874094"
-BATCH Dell.Pricing.Discount.WebApi_,REQUEST,XGBoost,"2.215.003,929398","7.312.017.643.759,650000","-2,519979","1,813798"
-BATCH Dell.Pricing.Discount.WebApi_,REQUEST,AutoArima,"2.303.349,020406","8.442.389.060.938,460000","-28,473489","338,053235"
-BATCH EM DCP.PricingService_,REQUEST,Redes Neurais Recorrentes ,"299.770,814737","142.385.530.226,589000","-0,372956","330,510562"
-BATCH EM DCP.PricingService_,REQUEST, Redes Neurais Convolucionais ,"363.154,395401","209.449.206.081,231000","-0,136224","78,811218"
-BATCH EM DCP.PricingService_,REQUEST,XGBoost,"507.516,529261","383.883.989.942,099000","-1,451540","17,889457"
-BATCH EM DCP.PricingService_,REQUEST,AutoArima,"458.608,644055","320.452.960.404,771000","-7,342904","269,880847"
-dell.com_shop,REQUEST,Redes Neurais Recorrentes ,"125.056,293880","36.260.846.687,047300","0,738282","327,945611"
-dell.com_shop,REQUEST, Redes Neurais Convolucionais ,"354.562,623640","198.779.885.323,936000","-0,292572","80,793737"
-dell.com_shop,REQUEST,XGBoost,"371.181,092014","213.254.889.836,796000","-3,161562","-3,161562"
-dell.com_shop,REQUEST,AutoArima,"434.615,161596","314.134.252.602,376000","-5.140.763.293.701.460,000000","148,217416"
-BATCH SnpServiceAPI_,REQUEST,Redes Neurais Recorrentes ,"143.315,068215","46.649.243.000,446300","0,894590","332,272002"
-BATCH SnpServiceAPI_,REQUEST, Redes Neurais Convolucionais ,"582.560,391865","558.530.893.415,178000","-0,266289","43,735218"
-BATCH SnpServiceAPI_,REQUEST,XGBoost,"674.987,524045","729.761.533.395,413000","-0,821401","7,637803"
-BATCH SnpServiceAPI_,REQUEST,AutoArima,"752.801,194306","878.887.871.170,854000","-1,081873","156,848863"
+Aplicação,Métrica,Algoritmo,Erro médio absoluto,Erro médio quadrado,Coeficiente de determinação (R²),Tempo de execução(em segundos),API
+_.dellsvc,CPU,Redes Neurais Recorrentes,"0,178840","0,087066","0,652780","297,990328",API 1
+_.dellsvc,CPU,Redes Neurais Convolucionais,"0,472958","0,501811","-0,679540","61,945539",API 1
+_.dellsvc,CPU,XGBoost,"0,501572","0,509506","-47,933200","1,996638",API 1
+_.dellsvc,CPU,AutoArima,"0,595457","0,642254","-146,835189","481,878441",API 1
+at1-script-gw.script-gw-_,CPU,Redes Neurais Recorrentes,"0,025157","0,002600","0,608022","330,805591",API 2
+at1-script-gw.script-gw-_,CPU,Redes Neurais Convolucionais,"0,079002","0,008351","-0,078648","55,270618",API 2
+at1-script-gw.script-gw-_,CPU,XGBoost,"0,011393","0,000328","-207.759,162188","1,622373",API 2
+at1-script-gw.script-gw-_,CPU,AutoArima,"0,071721","0,010609","-40,668337","461,137295",API 2
+at1-sae-gw.SpringCloudGateway - (srs-atl-prd-a1-pks),CPU,Redes Neurais Recorrentes,"0,033139","0,001253","-6,672666","331,297781",API 3
+at1-sae-gw.SpringCloudGateway - (srs-atl-prd-a1-pks),CPU,Redes Neurais Convolucionais,"0,276413","0,076868","-301,403142","144,101136",API 3
+at1-sae-gw.SpringCloudGateway - (srs-atl-prd-a1-pks),CPU,XGBoost,"0,011393","0,000328","-207.759,162188","1,622373",API 3
+at1-sae-gw.SpringCloudGateway - (srs-atl-prd-a1-pks),CPU,AutoArima,"0,245684","0,070733","-7,307713","645,005176",API 3
+atl-ce-routing.scg-router-app_,CPU,Redes Neurais Recorrentes,"0,006145","0,000131","-0,077234","331,267579",API 4
+atl-ce-routing.scg-router-app_,CPU,Redes Neurais Convolucionais,"0,032193","0,001272","-4,415148","83,120686",API 4
+atl-ce-routing.scg-router-app_,CPU,XGBoost,"0,011282","0,000227","-1.564,643159","1,460121",API 4
+atl-ce-routing.scg-router-app_,CPU,AutoArima,"0,131051","0,017398","0,000000","1.072,116817",API 4
+Azure DevOps Server (tfs)_,CPU,Redes Neurais Recorrentes,"0,753971","0,945861","0,901376","213,782772",API 5
+Azure DevOps Server (tfs)_,CPU,Redes Neurais Convolucionais,"2,888395","11,044744","-0,000289","74,678894",API 5
+Azure DevOps Server (tfs)_,CPU,XGBoost,"3,539360","19,807460","-3,924174","1,727690",API 5
+Azure DevOps Server (tfs)_,CPU,AutoArima,"2,875526","11,300862","-11,994381","604,516502",API 5
+BATCH Dell.Pricing.Discount.WebApi_,CPU,Redes Neurais Recorrentes,"0,574543","0,556079","0,549085","309,947225",API 6
+BATCH Dell.Pricing.Discount.WebApi_,CPU,Redes Neurais Convolucionais,"1,146691","1,922337","-0,372254","80,776631",API 6
+BATCH Dell.Pricing.Discount.WebApi_,CPU,XGBoost,"1,149739","2,252782","-22,953330","2,029753",API 6
+BATCH Dell.Pricing.Discount.WebApi_,CPU,AutoArima,"1,446096","3,438035","-23,153017","476,337286",API 6
+BATCH EM DCP.PricingService_,CPU,Redes Neurais Recorrentes,"1,623915","4,532439","0,094341","330,524045",API 7
+BATCH EM DCP.PricingService_,CPU,Redes Neurais Convolucionais,"1,874692","5,349091","-0,000461","145,692789",API 7
+BATCH EM DCP.PricingService_,CPU,XGBoost,"2,912803","12,874608","-2,140430","2,325849",API 7
+BATCH EM DCP.PricingService_,CPU,AutoArima,"2,536883","11,956899","-33,616859","557,150510",API 7
+dell.com_shop,CPU,Redes Neurais Recorrentes,"0,451676","0,358702","0,825078","391,588296",API 8
+dell.com_shop,CPU,Redes Neurais Convolucionais,"1,244205","2,280812","-0,007155","144,713195",API 8
+dell.com_shop,CPU,XGBoost,"1,745641","4,621363","-1,601548","2,905033",API 8
+dell.com_shop,CPU,AutoArima,"1,651910","4,915050","-27,180704","100,404289",API 8
+BATCH SnpServiceAPI_,CPU,Redes Neurais Recorrentes,"2,741102","23,113325","0,666615","331,282422",API 9
+BATCH SnpServiceAPI_,CPU,Redes Neurais Convolucionais,"8,179902","153,985633","-0,311637","45,406605",API 9
+BATCH SnpServiceAPI_,CPU,XGBoost,"9,307683","168,598178","-1,776704","2,237175",API 9
+BATCH SnpServiceAPI_,CPU,AutoArima,"9,370270","151,918477","-2,874392","766,463918",API 9
+_.dellsvc,LATENCY,Redes Neurais Recorrentes,"0,073077","0,020138","-14,467379","298,790267",API 1
+_.dellsvc,LATENCY,Redes Neurais Convolucionais,"0,059328","0,020512","-0,014907","82,990144",API 1
+_.dellsvc,LATENCY,XGBoost,"0,157416","0,044587","-2,195044","7,614064",API 1
+_.dellsvc,LATENCY,AutoArima,"0,119710","0,039658","-1,317797","101,957532",API 1
+at1-script-gw.script-gw-_,LATENCY,Redes Neurais Recorrentes,"0,005301","3,824145","-2,366522","331,955100",API 2
+at1-script-gw.script-gw-_,LATENCY,Redes Neurais Convolucionais,"0,000927","0,000007","-0,057460","53,970675",API 2
+at1-script-gw.script-gw-_,LATENCY,XGBoost,"161,816053","58.796,263936","-0,859359","8,198486",API 2
+at1-script-gw.script-gw-_,LATENCY,AutoArima,"0,003177","0,000017","-41,222583","293,510384",API 2
+at1-sae-gw.SpringCloudGateway - (srs-atl-prd-a1-pks),LATENCY,Redes Neurais Recorrentes,"169,795691","34.288,556012","-22,881802","330,112687",API 3
+at1-sae-gw.SpringCloudGateway - (srs-atl-prd-a1-pks),LATENCY,Redes Neurais Convolucionais,"42,214948","9.188,082808","-0,001251","83,265449",API 3
+at1-sae-gw.SpringCloudGateway - (srs-atl-prd-a1-pks),LATENCY,XGBoost,"161,816053","58.796,263936","-0,859359","8,198486",API 3
+at1-sae-gw.SpringCloudGateway - (srs-atl-prd-a1-pks),LATENCY,AutoArima,"3.023,554274","10.949.926,782049","-4,953262","614,509015",API 3
+atl-ce-routing.scg-router-app_,LATENCY,Redes Neurais Recorrentes,"4.920,595581","115.915.795,225753","0,010005","330,589286",API 4
+atl-ce-routing.scg-router-app_,LATENCY,Redes Neurais Convolucionais,"915,792292","7.843.416,381632","-0,086217","41,814604",API 4
+atl-ce-routing.scg-router-app_,LATENCY,XGBoost,"44.745,330771","5.376.840.560,563530","-0,554152","1,198833",API 4
+atl-ce-routing.scg-router-app_,LATENCY,AutoArima,"1.555,264019","8.194.279,427570","0,000000","156,972844",API 4
+Azure DevOps Server (tfs)_,LATENCY,Redes Neurais Recorrentes,"207,793520","79.971,720189","0,820574","208,423023",API 5
+Azure DevOps Server (tfs)_,LATENCY,Redes Neurais Convolucionais,"593,998084","521.730,666605","-0,022799","82,968991",API 5
+Azure DevOps Server (tfs)_,LATENCY,XGBoost,"857,746064","1.039.380,280072","-2,697148","3,601625",API 5
+Azure DevOps Server (tfs)_,LATENCY,AutoArima,"2.013,814832","4.779.831,279241","-16,313831","308,734898",API 5
+BATCH Dell.Pricing.Discount.WebApi_,LATENCY,Redes Neurais Recorrentes,"0,002289","8,293817","-4,740699","390,497838",API 6
+BATCH Dell.Pricing.Discount.WebApi_,LATENCY,Redes Neurais Convolucionais,"0,002510","0,000009","-0,273836","65,222175",API 6
+BATCH Dell.Pricing.Discount.WebApi_,LATENCY,XGBoost,"0,002597","0,000010","-13,205659","1,436060",API 6
+BATCH Dell.Pricing.Discount.WebApi_,LATENCY,AutoArima,"0,002897","1,124961","-7,318220","596,354503",API 6
+BATCH EM DCP.PricingService_,LATENCY,Redes Neurais Recorrentes,"29,306915","1.347,183012","-2,675205","330,499770",API 7
+BATCH EM DCP.PricingService_,LATENCY,Redes Neurais Convolucionais,"29,547700","1.479,009157","-0,109093","82,910373",API 7
+BATCH EM DCP.PricingService_,LATENCY,XGBoost,"72,446303","8.496,944499","-1,550728","1,567063",API 7
+BATCH EM DCP.PricingService_,LATENCY,AutoArima,"41,459213","2.914,095419","-1,938535","152,931477",API 7
+dell.com_shop,LATENCY,Redes Neurais Recorrentes,"13,173681","479,775382","-25,239681","393,149384",API 8
+dell.com_shop,LATENCY,Redes Neurais Convolucionais,"14,644714","472,421936","-0,036384","82,882957",API 8
+dell.com_shop,LATENCY,XGBoost,"17,461673","592,063416","-5,912456","-5,912456",API 8
+dell.com_shop,LATENCY,AutoArima,"16,747445","615,708743","-4,235867","191,894922",API 8
+BATCH SnpServiceAPI_,LATENCY,Redes Neurais Recorrentes,"104,063763","93.174,794171","-5,415288","36,271228",API 9
+BATCH SnpServiceAPI_,LATENCY,Redes Neurais Convolucionais,"82,520877","90.287,204335","-0,034813","82,619839",API 9
+BATCH SnpServiceAPI_,LATENCY,XGBoost,"89,020132","87.332,326375","-76,820311","5,867656",API 9
+BATCH SnpServiceAPI_,LATENCY,AutoArima,"84,110650","86.451,708923","-137,270723","120,312551",API 9
+_.dellsvc,MEMORY,Redes Neurais Recorrentes,"0,028326","0,006006","0,973360","330,197494",API 1
+_.dellsvc,MEMORY,Redes Neurais Convolucionais,"0,486382","0,267833","-0,104002","62,851558",API 1
+_.dellsvc,MEMORY,XGBoost,"0,436492","0,243854","0,000000","1,582029",API 1
+_.dellsvc,MEMORY,AutoArima,"0,443352","0,268190","-15,627278","434,905193",API 1
+at1-script-gw.script-gw-_,MEMORY,Redes Neurais Recorrentes,"0,067124","0,007338","0,942173","309,709597",API 2
+at1-script-gw.script-gw-_,MEMORY,Redes Neurais Convolucionais,"0,566476","0,471535","-2,156677","82,677912",API 2
+at1-script-gw.script-gw-_,MEMORY,XGBoost,"0,402109","0,311590","0,000000","1,291309",API 2
+at1-script-gw.script-gw-_,MEMORY,AutoArima,"0,455925","0,381019","-63,708753","351,778226",API 2
+at1-sae-gw.SpringCloudGateway - (srs-atl-prd-a1-pks),MEMORY,Redes Neurais Recorrentes,"0,008865","0,001644","0,989174","331,162667",API 3
+at1-sae-gw.SpringCloudGateway - (srs-atl-prd-a1-pks),MEMORY,Redes Neurais Convolucionais,"0,489912","0,389423","-1,621068","143,099241",API 3
+at1-sae-gw.SpringCloudGateway - (srs-atl-prd-a1-pks),MEMORY,XGBoost,"0,402109","0,311590","0,000000","1,291309",API 3
+at1-sae-gw.SpringCloudGateway - (srs-atl-prd-a1-pks),MEMORY,AutoArima,"0,404606","0,318070","-112,822238","397,456183",API 3
+atl-ce-routing.scg-router-app_,MEMORY,Redes Neurais Recorrentes,"0,038613","0,003863","0,953732","331,098100",API 4
+atl-ce-routing.scg-router-app_,MEMORY,Redes Neurais Convolucionais,"0,412934","0,269231","-1,743047","41,927676",API 4
+atl-ce-routing.scg-router-app_,MEMORY,XGBoost,"0,303483","0,187876","-86.173,696457","0,907020",API 4
+atl-ce-routing.scg-router-app_,MEMORY,AutoArima,"1,394579","2,041451","0,000000","708,803481",API 4
+Azure DevOps Server (tfs)_,MEMORY,Redes Neurais Recorrentes,"0,259789","0,112048","0,889386","208,475932",API 5
+Azure DevOps Server (tfs)_,MEMORY,Redes Neurais Convolucionais,"0,886960","1,207889","-0,015682","82,889247",API 5
+Azure DevOps Server (tfs)_,MEMORY,XGBoost,"1,033827","1,640444","-12,634588","1,838412",API 5
+Azure DevOps Server (tfs)_,MEMORY,AutoArima,"0,993354","1,566013","-15,802639","559,356361",API 5
+BATCH Dell.Pricing.Discount.WebApi_,MEMORY,Redes Neurais Recorrentes,"0,618929","1,012614","0,939986","330,766288",API 6
+BATCH Dell.Pricing.Discount.WebApi_,MEMORY,Redes Neurais Convolucionais,"3,256453","22,292077","-0,220247","69,601925",API 6
+BATCH Dell.Pricing.Discount.WebApi_,MEMORY,XGBoost,"6,002892","50,514325","-2,944355","3,228747",API 6
+BATCH Dell.Pricing.Discount.WebApi_,MEMORY,AutoArima,"7,555627","69,662396","-39,321972","518,256779",API 6
+BATCH EM DCP.PricingService_,MEMORY,Redes Neurais Recorrentes,"0,027270","0,001687","0,650363","330,117986",API 7
+BATCH EM DCP.PricingService_,MEMORY,Redes Neurais Convolucionais,"0,045168","0,006308","-0,021895","83,218957",API 7
+BATCH EM DCP.PricingService_,MEMORY,XGBoost,"0,074164","0,008034","-43,071894","3,655873",API 7
+BATCH EM DCP.PricingService_,MEMORY,AutoArima,"0,060041","0,009119","-3,611307","755,121037",API 7
+dell.com_shop,MEMORY,Redes Neurais Recorrentes,"0,086660","0,016835","0,818905","330,934275",API 8
+dell.com_shop,MEMORY,Redes Neurais Convolucionais,"0,261065","0,115140","-0,408628","82,924536",API 8
+dell.com_shop,MEMORY,XGBoost,"0,930730","0,983765","-38,235895","-38,235895",API 8
+dell.com_shop,MEMORY,AutoArima,"0,807503","1,440663","-0,745528","359,837056",API 8
+BATCH SnpServiceAPI_,MEMORY,Redes Neurais Recorrentes,"0,005055","9,103084","0,423935","331,453381",API 9
+BATCH SnpServiceAPI_,MEMORY,Redes Neurais Convolucionais,"0,013473","0,000393","-0,148729","44,518397",API 9
+BATCH SnpServiceAPI_,MEMORY,XGBoost,"0,012165","0,000323","-28,742717","1,465075",API 9
+BATCH SnpServiceAPI_,MEMORY,AutoArima,"0,014827","0,000940","-0,939590","456,932388",API 9
+_.dellsvc,REQUEST,Redes Neurais Recorrentes,"53.138,658271","14.429.597.290,762800","0,401308","330,737334",API 1
+_.dellsvc,REQUEST,Redes Neurais Convolucionais,"160.667,692878","69.060.655.021,018700","-0,544807","82,701599",API 1
+_.dellsvc,REQUEST,XGBoost,"138.875,788303","56.465.501.531,142900","-95,992013","1,831230",API 1
+_.dellsvc,REQUEST,AutoArima,"167.754,529010","67.675.058.486,452500","-1.292,327749","209,651184",API 1
+at1-script-gw.script-gw-_,REQUEST,Redes Neurais Recorrentes,"165.555,100462","144.199.684.804,620000","-0,661208","330,475713",API 2
+at1-script-gw.script-gw-_,REQUEST,Redes Neurais Convolucionais,"415.887,982196","417.602.713.155,291000","-0,707024","54,180919",API 2
+at1-script-gw.script-gw-_,REQUEST,XGBoost,"22.223,556207","2.298.633.369,939480","-15,420085","1,545528",API 2
+at1-script-gw.script-gw-_,REQUEST,AutoArima,"302.015,727977","309.392.794.139,906000","-8,589727","105,292604",API 2
+at1-sae-gw.SpringCloudGateway - (srs-atl-prd-a1-pks),REQUEST,Redes Neurais Recorrentes,"16.235,053479","1.164.746.156,780120","0,062859","391,442160",API 3
+at1-sae-gw.SpringCloudGateway - (srs-atl-prd-a1-pks),REQUEST,Redes Neurais Convolucionais,"26.714,280415","3.025.760.254,698310","-0,273777","143,002418",API 3
+at1-sae-gw.SpringCloudGateway - (srs-atl-prd-a1-pks),REQUEST,XGBoost,"22.223,556207","2.298.633.369,939480","-15,420085","1,545528",API 3
+at1-sae-gw.SpringCloudGateway - (srs-atl-prd-a1-pks),REQUEST,AutoArima,"18.023,088454","2.061.575.393,998260","-8,770840","160,861034",API 3
+atl-ce-routing.scg-router-app_,REQUEST,Redes Neurais Recorrentes,"2.125,570513","26.694.119,351213","-0,475712","331,341012",API 4
+atl-ce-routing.scg-router-app_,REQUEST,Redes Neurais Convolucionais,"43.267,705205","1.895.488.676,176170","-82,813582","82,596519",API 4
+atl-ce-routing.scg-router-app_,REQUEST,XGBoost,"6.113,400226","73.096.973,923145","-173,827960","1,292954",API 4
+atl-ce-routing.scg-router-app_,REQUEST,AutoArima,"201.542,056075","40.662.051.401,869100","0,000000","90,884819",API 4
+Azure DevOps Server (tfs)_,REQUEST,Redes Neurais Recorrentes,"40.546,411537","3.004.863.851,024990","0,931518","188,377419",API 5
+Azure DevOps Server (tfs)_,REQUEST,Redes Neurais Convolucionais,"188.035,886499","54.030.722.229,846600","-0,130261","75,077006",API 5
+Azure DevOps Server (tfs)_,REQUEST,XGBoost,"196.243,967755","67.697.297.187,740500","-3,262384","1,639393",API 5
+Azure DevOps Server (tfs)_,REQUEST,AutoArima,"185.509,023273","49.535.355.840,221300","-15,697221","652,714298",API 5
+BATCH Dell.Pricing.Discount.WebApi_,REQUEST,Redes Neurais Recorrentes,"864.755,943418","1.224.307.702.651,630000","0,769125","330,941451",API 6
+BATCH Dell.Pricing.Discount.WebApi_,REQUEST,Redes Neurais Convolucionais,"1.705.549,394164","4.364.865.592.173,590000","-0,020339","82,874094",API 6
+BATCH Dell.Pricing.Discount.WebApi_,REQUEST,XGBoost,"2.215.003,929398","7.312.017.643.759,650000","-2,519979","1,813798",API 6
+BATCH Dell.Pricing.Discount.WebApi_,REQUEST,AutoArima,"2.303.349,020406","8.442.389.060.938,460000","-28,473489","338,053235",API 6
+BATCH EM DCP.PricingService_,REQUEST,Redes Neurais Recorrentes,"299.770,814737","142.385.530.226,589000","-0,372956","330,510562",API 7
+BATCH EM DCP.PricingService_,REQUEST,Redes Neurais Convolucionais,"363.154,395401","209.449.206.081,231000","-0,136224","78,811218",API 7
+BATCH EM DCP.PricingService_,REQUEST,XGBoost,"507.516,529261","383.883.989.942,099000","-1,451540","17,889457",API 7
+BATCH EM DCP.PricingService_,REQUEST,AutoArima,"458.608,644055","320.452.960.404,771000","-7,342904","269,880847",API 7
+dell.com_shop,REQUEST,Redes Neurais Recorrentes,"125.056,293880","36.260.846.687,047300","0,738282","327,945611",API 8
+dell.com_shop,REQUEST,Redes Neurais Convolucionais,"354.562,623640","198.779.885.323,936000","-0,292572","80,793737",API 8
+dell.com_shop,REQUEST,XGBoost,"371.181,092014","213.254.889.836,796000","-3,161562","-3,161562",API 8
+dell.com_shop,REQUEST,AutoArima,"434.615,161596","314.134.252.602,376000","-5.140.763.293.701.460,000000","148,217416",API 8
+BATCH SnpServiceAPI_,REQUEST,Redes Neurais Recorrentes,"143.315,068215","46.649.243.000,446300","0,894590","332,272002",API 9
+BATCH SnpServiceAPI_,REQUEST,Redes Neurais Convolucionais,"582.560,391865","558.530.893.415,178000","-0,266289","43,735218",API 9
+BATCH SnpServiceAPI_,REQUEST,XGBoost,"674.987,524045","729.761.533.395,413000","-0,821401","7,637803",API 9
+BATCH SnpServiceAPI_,REQUEST,AutoArima,"752.801,194306","878.887.871.170,854000","-1,081873","156,848863",API 9
